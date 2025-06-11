@@ -4,7 +4,6 @@ It’s structured to be beginner-friendly, visually clean, and useful for person
 
 ---
 
-````markdown
 # 📘 Salesforce Lightning Web Components (LWC) Developer Notes
 
 Welcome to your one-stop reference for **Salesforce Lightning Web Components (LWC)** development! This repository serves as a comprehensive guide—from HTML essentials to advanced directives and SLDS usage—created for learners, developers, and Trailblazers preparing for real-world projects or Salesforce certifications.
@@ -73,7 +72,6 @@ Feel free to submit issues, ideas, or PRs to expand this reference.
 > Made with 💙 by [Maheswari Pinneti](https://www.linkedin.com/in/maheswari-pinneti)
 > ✨ Fork it, star it, and make it your own Salesforce dev vault!
 
-```
 
 ---
 
