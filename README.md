@@ -54,20 +54,20 @@ Welcome to your one-stop reference for **Salesforce Lightning Web Components (LW
 
 3. Copy/paste snippets into your own LWC projects as needed.
 
----
+
 
 ## 💡 Contribution
 
 🙌 Contributions are welcome!
 Feel free to submit issues, ideas, or PRs to expand this reference.
 
----
+
 
 ## 📌 License
 
 [MIT License](LICENSE) – Use freely, just give credit where due!
 
----
+
 
 > Made with 💙 by [Maheswari Pinneti](https://www.linkedin.com/in/maheswari-pinneti)
 > ✨ Fork it, star it, and make it your own Salesforce dev vault!
