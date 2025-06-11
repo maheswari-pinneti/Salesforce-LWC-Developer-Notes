@@ -137,6 +137,3 @@ Bind JS properties like:
 ```
 
 ---
-
-Let me know if you'd like this saved as a `.md` file, or want me to add a **sidebar, table of contents, or interactive demos** using CodeSandbox or GitHub Pages!
-```
