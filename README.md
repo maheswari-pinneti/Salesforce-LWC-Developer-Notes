@@ -73,7 +73,4 @@ Feel free to submit issues, ideas, or PRs to expand this reference.
 > ✨ Fork it, star it, and make it your own Salesforce dev vault!
 
 
----
 
-Would you like a [cover image banner for this README](f), a [GitHub Pages version of your notes](f), or [Markdown-to-Notion integration](f)?
-```
