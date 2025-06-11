@@ -3,7 +3,7 @@ Here's a comprehensive list of HTML tags for Salesforce LWC developers, structur
 # HTML Tags in Lightning Web Components (LWC)
 
 ## Core Structure Tags
-```markdown
+
 ### `<template>`
 - **Definition**: Root container for LWC components (not rendered in DOM)
 - **Syntax**: `<template>...</template>`
